@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeslaAcademy", "TeslaAcademy\TeslaAcademy.csproj", "{8486607F-662B-4B13-B346-362C03FA675D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8486607F-662B-4B13-B346-362C03FA675D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8486607F-662B-4B13-B346-362C03FA675D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8486607F-662B-4B13-B346-362C03FA675D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8486607F-662B-4B13-B346-362C03FA675D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA78196C-36C8-4990-8FCA-E3AC01A5B7A6}
+	EndGlobalSection
+EndGlobal

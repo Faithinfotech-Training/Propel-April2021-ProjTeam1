@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TeslaAcademy/v15
+/TeslaAcademy/bin/Debug/netcoreapp2.1
+/TeslaAcademy/obj
+/TeslaAcademy/appsettings.Development.json
